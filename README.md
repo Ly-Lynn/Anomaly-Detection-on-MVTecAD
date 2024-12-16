@@ -30,4 +30,6 @@ python add_imgs.py
 cd ..
 streamlit run app.py
 ```
-
+![alt text](/figures/image.png)
+![alt text](/figures/image2.png)
+![alt text](/figures/image3.png)
